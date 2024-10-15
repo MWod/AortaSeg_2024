@@ -26,4 +26,4 @@ Request access to the algorithm on the [Grand Challenge](https://grand-challenge
 
 # Technical description
 
-The technical description of the proposed method will be available at" [Link](TODO)
+The technical description of the proposed method is available at: [Link](TODO)
