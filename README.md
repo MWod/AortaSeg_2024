@@ -5,7 +5,8 @@ Contribution to the AortaSeg Challenge (MICCAI 2024) by lWM.
 
 ## Option 1:
 
-* Download the models (the link contains all the models used for the final submission - after the final retraining): [Link](TODO)
+* Download the models (the link contains all the models used for the final submission - after the final retraining): [Link](https://drive.google.com/drive/folders/1VYhXwpf2IMCBl0Ij_9UXJzUKZOjdjhIT?usp=sharing)
+* Save the models to a chosen folder and copy the absolute path
 * Navigate to the [*/reproduce*](./src/reproduce) folder
 * There is a file [reproduce.ipynb](./src/reproduce/reproduce.ipynb). Set the three variables:
   * 'input_path' - direct path to the input CT volume
@@ -16,12 +17,11 @@ Contribution to the AortaSeg Challenge (MICCAI 2024) by lWM.
 
 ## Option 2:
 
-Just directly download and use the Docker used for the final submission: [Link](TODO)
+Directly download and use the Docker used for the final submission: [Link](TODO)
 The Docker follows all the conventions from [Grand Challenge](https://grand-challenge.org/) platform - use it as a Grand Challenge Algorithm.
 
 ## Option 3:
 Request access to the algorithm on the [Grand Challenge](https://grand-challenge.org/algorithms/aortasegsimple/) platform and test the method directly using the GC infrastructure.
-
 
 # Technical description
 
