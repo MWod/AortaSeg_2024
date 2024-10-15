@@ -18,6 +18,7 @@ Contribution to the AortaSeg Challenge (MICCAI 2024) by lWM.
 ## Option 2:
 
 Directly download and use the Docker used for the final submission: [Link](TODO)
+
 The Docker follows all the conventions from [Grand Challenge](https://grand-challenge.org/) platform - use it as a Grand Challenge Algorithm.
 
 ## Option 3:
